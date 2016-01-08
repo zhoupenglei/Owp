@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_new.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_new.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_record.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_finish.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_finish.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stop.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_stop.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\drawable\\btn_play.xml"
+    }
+]

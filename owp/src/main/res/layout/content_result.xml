@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.owp.qrcode.ResultActivity"
+    tools:showIn="@layout/activity_result">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:paddingLeft="15dp"
+            android:paddingTop="15dp"
+            android:text="扫描结果："
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/result_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/result_content_bg"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="left|top"
+            android:padding="15dp"
+            android:layout_margin="15dp"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_save_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="保存结果"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        />
+</RelativeLayout>

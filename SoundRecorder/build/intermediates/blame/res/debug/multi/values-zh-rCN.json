@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "D:\\StudioProjects\\Owp\\SoundRecorder\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3004,
+                        "endColumn": 68,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 70,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 70,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 80,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 80,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 82,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1464,
+                        "endColumn": 82,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 85,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 85,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 70,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 70,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 53,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 53,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 60,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 60,
+                        "endOffset": 2191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 85,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 85,
+                        "endOffset": 1881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 92,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 92,
+                        "endOffset": 1974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endColumn": 85,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1714,
+                        "endColumn": 85,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 82,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 82,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 84,
+                    "endOffset": 1059
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 84,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 43,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 43,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endColumn": 56,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 56,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 58,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2716,
+                        "endColumn": 58,
+                        "endOffset": 2770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 54,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2775,
+                        "endColumn": 54,
+                        "endOffset": 2825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 63,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2830,
+                        "endColumn": 63,
+                        "endOffset": 2889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 52,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2951,
+                        "endColumn": 52,
+                        "endOffset": 2999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 70,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2196,
+                        "endColumn": 70,
+                        "endOffset": 2262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 64,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2374,
+                        "endColumn": 64,
+                        "endOffset": 2434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 73,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2506,
+                        "endColumn": 73,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 71,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2644,
+                        "endColumn": 71,
+                        "endOffset": 2711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 66,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2439,
+                        "endColumn": 66,
+                        "endOffset": 2501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1745,
+                    "endColumn": 63,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2580,
+                        "endColumn": 63,
+                        "endOffset": 2639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endColumn": 57,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2316,
+                        "endColumn": 57,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1867,
+                    "endColumn": 48,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2267,
+                        "endColumn": 48,
+                        "endOffset": 2311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1916,
+                    "endColumn": 70,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 70,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 80,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 80,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 56,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2894,
+                        "endColumn": 56,
+                        "endOffset": 2946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endColumn": 79,
+                    "endOffset": 2200
+                },
+                "from": {
+                    "file": "D:\\StudioProjects\\Owp\\SoundRecorder\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 79,
+                        "endOffset": 1125
+                    }
+                }
+            }
+        ]
+    }
+]

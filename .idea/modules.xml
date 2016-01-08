@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioVideo/AudioVideo.iml" filepath="$PROJECT_DIR$/AudioVideo/AudioVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Owp.iml" filepath="$PROJECT_DIR$/Owp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoundRecorder/SoundRecorder.iml" filepath="$PROJECT_DIR$/SoundRecorder/SoundRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoiceManager/VoiceManager.iml" filepath="$PROJECT_DIR$/VoiceManager/VoiceManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/galleryfinal/galleryfinal.iml" filepath="$PROJECT_DIR$/galleryfinal/galleryfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallyapp/gallyapp.iml" filepath="$PROJECT_DIR$/gallyapp/gallyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialDialogs/materialDialogs.iml" filepath="$PROJECT_DIR$/materialDialogs/materialDialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/owp/owp.iml" filepath="$PROJECT_DIR$/owp/owp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/papaAndWeixin/papaAndWeixin.iml" filepath="$PROJECT_DIR$/papaAndWeixin/papaAndWeixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pressRecordmaster/pressRecordmaster.iml" filepath="$PROJECT_DIR$/pressRecordmaster/pressRecordmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

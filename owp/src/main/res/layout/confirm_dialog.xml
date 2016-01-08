@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:gravity="center_horizontal"
+    >
+    <LinearLayout 
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" 
+        android:background="@drawable/alert_layer"
+        >
+        <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       	android:layout_marginTop="15dp"
+       	android:layout_marginLeft="10dp"
+       	android:layout_marginRight="10dp"
+        android:gravity="left|center_horizontal"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/dialog_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       	android:layout_marginTop="10dp"
+       	android:layout_marginLeft="10dp"
+       	android:layout_marginRight="10dp"
+        android:gravity="left|center_horizontal"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/left_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/dialog_btn"
+            android:text="确定"
+            android:textColor="#ffffff"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="18sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/right_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/dialog_btn"
+            android:text="取消"
+            android:textColor="#ffffff"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="18sp" >
+        </Button>
+    </LinearLayout>
+        
+    </LinearLayout>
+	 
+
+</LinearLayout>

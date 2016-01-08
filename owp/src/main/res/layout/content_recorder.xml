@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".RecorderActivity"
+    tools:showIn="@layout/activity_recorder">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/layout_record"
+            layout="@layout/unit_voice_record"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true" />
+
+        <include
+            android:id="@+id/layout_play"
+            layout="@layout/unit_voice_play"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true" />
+        <ListView
+            android:id="@+id/list"
+            android:layout_marginTop="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/button_rec"/>
+        <!--<Button-->
+            <!--android:id="@+id/button_play"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_margin="10dp"-->
+            <!--android:layout_above="@+id/button_rec"-->
+            <!--android:layout_marginBottom="20dp"-->
+            <!--android:text="播放录音"-->
+            <!--android:visibility="invisible"/>-->
+
+        <Button
+            android:id="@+id/button_rec"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_above="@+id/button_save"
+            android:layout_marginBottom="20dp"
+            android:text="点击录音" />
+
+        <Button
+            android:id="@+id/button_save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:text="保存录音"
+            android:visibility="invisible"/>
+
+
+
+    </RelativeLayout>
+</RelativeLayout>
