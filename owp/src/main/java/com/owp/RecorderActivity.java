@@ -20,6 +20,7 @@ import com.owp.api.ApiHttpClient;
 import com.owp.api.InterfaceConstants;
 import com.owp.audio.VoiceCallBack;
 import com.owp.audio.VoiceManager;
+import com.owp.utils.PKFactory;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -126,11 +127,12 @@ public class RecorderActivity extends AppCompatActivity {
 //                ApiHttpClient.post(params, responseHandler);
                 if (pathList.size() > 0) {
                     loadingDialog.show();
+                    RequestParams params = new RequestParams();
+                    params.put("uploadType", "2");
+                    params.put("pk", PKFactory.getPKID(RecorderActivity.this));
                     for (String path : pathList){
                         position++;
                         File myFile = new File(path);
-                        RequestParams params = new RequestParams();
-                        params.put("uploadType", "2");
                         try {
                             params.put("files", myFile);
                         } catch(FileNotFoundException e) {

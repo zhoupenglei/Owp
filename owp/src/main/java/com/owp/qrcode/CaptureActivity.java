@@ -388,6 +388,7 @@ public class CaptureActivity extends AppCompatActivity implements SurfaceHolder.
         mBeepManager.playBeepSoundAndVibrate();
         Intent intent = new Intent(this, ResultActivity.class);
         bundle.putString(ResultActivity.BUNDLE_KEY_SCAN_RESULT, result);
+        bundle.putInt(ResultActivity.BUNDLE_KEY_SCAN_TYPE_RESULT,getDataMode());
         if (null != bundle) {
             intent.putExtras(bundle);
         }

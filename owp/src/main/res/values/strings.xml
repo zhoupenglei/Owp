@@ -15,4 +15,5 @@
     <string name="tips_open_camera_error">打开相机失败,请确保允许应用使用相机权限后重试!</string>
     <string name="tips_decode_null">未解析到任何数据</string>
     <string name="title_activity_result">扫描结果</string>
+    <string name="title_activity_web_view">关于</string>
 </resources>

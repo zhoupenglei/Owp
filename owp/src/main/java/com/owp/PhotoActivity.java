@@ -22,6 +22,7 @@ import com.owp.adapter.ChoosePhotoListAdapter;
 import com.owp.api.ApiHttpClient;
 import com.owp.api.InterfaceConstants;
 import com.owp.loader.UILImageLoader;
+import com.owp.utils.PKFactory;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -130,11 +131,12 @@ public class PhotoActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (mPhotoList.size() > 0) {
                     loadingDialog.show();
+                    RequestParams params = new RequestParams();
+                    params.put("uploadType", "1");
+                    params.put("pk", PKFactory.getPKID(PhotoActivity.this));
                     for (PhotoInfo  photoInfo : mPhotoList){
                         position++;
                         File myFile = new File(photoInfo.getPhotoPath());
-                        RequestParams params = new RequestParams();
-                        params.put("uploadType", "1");
                         try {
                             params.put("files", myFile);
                         } catch(FileNotFoundException e) {
